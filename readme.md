@@ -21,10 +21,11 @@ Please consider the following datasets and resources for reference and inspirati
 ### Datasets
 
 * John Hopkins University (JHU) Global [dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) on Coronavirus outbreak
-* News and Social Media Extracts on Coronavirus
-* Flight Data (from Open Flights dot Org)
+* [News and Social Media Extracts](https://github.com/docligot/coronavirus-mab2222-hackathon/tree/master/social_listening
+) on Coronavirus
+* [Airport and Flight Data](https://github.com/docligot/coronavirus-mab2222-hackathon/tree/master/flight_data) (from Open Flights dot Org)
 
-*Note: Feel free to explore other datasets to complement this.*
+*Note: Teams are free to explore and add other datasets to complement this.*
 
 ### Other Similar Projects and Hacks
 
@@ -49,6 +50,6 @@ For any questions or inquiries regarding this repository or the challenge please
 
 ## License
 
-This work is part of an academic requirement for Masters in Advanced Business Analytics (MABA) 2222 Business Domain. This work is provided as-is under the terms of Creative Commons Attribution 4.0 International (CC-BY-4.0) license. 
+This work is part of an academic requirement for Masters in Advanced Business Analytics (MABA) 2222 Business Domain. This work is provided as-is under the terms of Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/#)) license. 
 
 **Note: Data and analysis featured in this repository are products of voluntary contributions and do not consitute official health advisory. Please contact your health ministry for latest updates on Coronavirus.**
