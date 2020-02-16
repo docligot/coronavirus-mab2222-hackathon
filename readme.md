@@ -27,10 +27,14 @@ Please consider the following datasets and resources for reference and inspirati
 
 *Note: Teams are free to explore and add other datasets to complement this.*
 
-### Other Similar Projects and Hacks
+### Other Related Projects and Hacks
 
 * [Coronatracker](https://github.com/theleadio/coronatracker) - a global volunteer initiative to analyze the coronavirus
 * [Coronatracker Analytics](https://github.com/docligot/coronatracker-analytics) - work-in-progress analytical initiatives on the coronavirus
+* [3D Coronavirus Visualization](https://icao.maps.arcgis.com/home/webscene/viewer.html?webscene=bf1ef9f8d9a748e0ab77c5591b24102e) 
+
+Other hackathon results for inspiration: 
+
 * [Bangsamoro Data Challenge](https://github.com/ethicsph/bangsamoro-data-challenge) - abstracts and submissions using Open Bangsamoro datasets
 * [Project AEDES](https://github.com/docligot/aedesproject) - advanced dengue prediction service using google searches, weather data, and satellite data
 * [Troglodyte](https://github.com/docligot/conspiracy-detection-r) - conspiracy detection on fake news sites
