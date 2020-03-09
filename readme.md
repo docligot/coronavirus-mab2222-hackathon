@@ -33,6 +33,15 @@ Please consider the following datasets and resources for reference and inspirati
 * [Coronatracker Analytics](https://github.com/docligot/coronatracker-analytics) - work-in-progress analytical initiatives on the coronavirus
 * 3D Coronavirus Outbreak [Visualization](https://icao.maps.arcgis.com/home/webscene/viewer.html?webscene=bf1ef9f8d9a748e0ab77c5591b24102e)
 
+### Updated Link Resources
+
+* [Reddit Thread on WHO visit to Wuhan](https://www.reddit.com/r/China_Flu/comments/fbt49e/the_who_sent_25_international_experts_to_china/). Contains some useful notes about the mortality and conditions on the ground. 
+* MIT Review: [Best and Worst Coronavirus Dashboards](https://www.technologyreview.com/s/615330/best-worst-coronavirus-dashboards/). Some useful feedback on each that you can apply to your projects. 
+* References on fake news on Coronavirus:
+	* [The Thaiger](https://thethaiger.com/hot-news/coronavirus/top-6-fake-coronavirus-news-stories) Top 6 Fake Coronavirus Fake Stories
+	* [Top 10 Fake News Myths on 2019 Novel Coronavirus]( https://www.devdiscourse.com/article/health/875867-top-10-fake-news-myths-and-realities-on-2019-novel-coronavirus-covid-19)
+	* [BuzzFeed News](https://www.buzzfeednews.com/article/janelytvynenko/coronavirus-disinformation-spread) Coronavirus Disinformation
+
 Other hackathon results for inspiration: 
 
 * [Bangsamoro Data Challenge](https://github.com/ethicsph/bangsamoro-data-challenge) - abstracts and submissions using Open Bangsamoro datasets
@@ -42,7 +51,6 @@ Other hackathon results for inspiration:
 ## Sample Challenge Concepts
 
 Some ideas to explore, and you can combine ideas for your project: 
-
 * Data Visualization / Dashboard for Coronavirus - create a tool to help decision-makers manage information
 * Predictive Modeling / Forecasting of Coronavirus Epidemic - use various models and algorithms to predict the future spread of the disease (ideas: SEIR, time-series, regression models, VAR, etc.)
 * Language Processing / Topic Modeling of News (e.g. detect fake news, understand sentiment, what topics resonate with the coronavirus)
